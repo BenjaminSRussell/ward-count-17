@@ -970,3 +970,6 @@
 {"n":970,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at Drydock. Nobody past the north curb. We hold in 8 steps. Direct on the left lane, open."}
 {"n":971,"kind":"place","name":"Drydock north curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock north curb. Bess keeps the crate for the hold. 2 steps, direct on the left lane, open."}
 {"n":972,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north curb. direct left open. 3 steps. The crate stays for the hold."}
+{"n":973,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the crate at High line. Nobody past the north curb. We hold in 4 steps. Direct on the left lane, open."}
+{"n":974,"kind":"place","name":"High line north curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line north curb. Matt keeps the crate for the hold. 5 steps, direct on the left lane, open."}
+{"n":975,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north curb. direct left open. 6 steps. The crate stays for the hold."}
