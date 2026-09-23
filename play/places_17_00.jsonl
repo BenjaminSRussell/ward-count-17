@@ -449,3 +449,6 @@
 {"n":449,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south escape. direct left open. 3 steps. The shutter stays for the push."}
 {"n":450,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the shutter at Ward gate. Nobody past the south escape. We push in 4 steps. Direct on the left lane, open."}
 {"n":451,"kind":"place","name":"Ward gate south escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate south escape. Bess keeps the shutter for the push. 5 steps, direct on the left lane, open."}
+{"n":452,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south escape. direct left open. 6 steps. The shutter stays for the push."}
+{"n":453,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the shutter at Kessler alley. Nobody past the south escape. We push in 7 steps. Direct on the left lane, open."}
+{"n":454,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley south escape. Matt keeps the shutter for the push. 8 steps, direct on the left lane, open."}
