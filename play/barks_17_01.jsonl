@@ -153,3 +153,6 @@
 {"n":153,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence south escape. Nia keeps the radio coil for the push. 7 steps, direct on the left lane, open."}
 {"n":154,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south escape. direct left open. 8 steps. The radio coil stays for the push."}
 {"n":155,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at Stockyard fence. Nobody past the south escape. We push in 2 steps. Direct on the left lane, open."}
+{"n":156,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence south escape. Ivo keeps the radio coil for the push. 3 steps, direct on the left lane, open."}
+{"n":157,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south escape. direct left open. 4 steps. The radio coil stays for the push."}
+{"n":158,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the south escape. We push in 5 steps. Direct on the left lane, open."}
