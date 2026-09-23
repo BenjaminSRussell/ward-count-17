@@ -983,3 +983,6 @@
 {"n":983,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at the Lot. Nobody past the west curb. We hold in 4 steps. Direct on the left lane, open."}
 {"n":984,"kind":"place","name":"the Lot west curb","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west curb. Ivo keeps the lamp for the hold. 5 steps, direct on the left lane, open."}
 {"n":985,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west curb. direct left open. 6 steps. The lamp stays for the hold."}
+{"n":986,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at the Lot. Nobody past the west curb. We hold in 7 steps. Direct on the left lane, open."}
+{"n":987,"kind":"place","name":"the Lot west curb","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot west curb. Bess keeps the lamp for the hold. 8 steps, direct on the left lane, open."}
+{"n":988,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west curb. direct left open. 2 steps. The lamp stays for the hold."}
