@@ -79,3 +79,6 @@
 {"n":79,"kind":"place","name":"Switchyard south escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard south escape. Bess keeps the lamp for the push. 4 steps, direct on the left lane, open."}
 {"n":80,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south escape. direct left open. 5 steps. The lamp stays for the push."}
 {"n":81,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the lamp at Drydock. Nobody past the south escape. We push in 6 steps. Direct on the left lane, open."}
+{"n":82,"kind":"place","name":"Drydock south escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock south escape. Matt keeps the lamp for the push. 7 steps, direct on the left lane, open."}
+{"n":83,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south escape. direct left open. 8 steps. The lamp stays for the push."}
+{"n":84,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the lamp at Drydock. Nobody past the south escape. We push in 2 steps. Direct on the left lane, open."}
