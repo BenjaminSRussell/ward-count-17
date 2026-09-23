@@ -865,3 +865,6 @@
 {"n":865,"kind":"place","name":"Stockyard fence north curb","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence north curb. Nia keeps the drum for the hold. 7 steps, direct on the left lane, open."}
 {"n":866,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north curb. direct left open. 8 steps. The drum stays for the hold."}
 {"n":867,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Stockyard fence. Nobody past the north curb. We hold in 2 steps. Direct on the left lane, open."}
+{"n":868,"kind":"place","name":"Stockyard fence north curb","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence north curb. Ivo keeps the drum for the hold. 3 steps, direct on the left lane, open."}
+{"n":869,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north curb. direct left open. 4 steps. The drum stays for the hold."}
+{"n":870,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Stockyard fence. Nobody past the north curb. We hold in 5 steps. Direct on the left lane, open."}
