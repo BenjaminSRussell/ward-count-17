@@ -101,3 +101,6 @@
 {"n":101,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north curb. direct left open. 6 steps. The lamp stays for the hold."}
 {"n":102,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at the pier. Nobody past the north curb. We hold in 7 steps. Direct on the left lane, open."}
 {"n":103,"kind":"place","name":"the pier north curb","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier north curb. Bess keeps the lamp for the hold. 8 steps, direct on the left lane, open."}
+{"n":104,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north curb. direct left open. 2 steps. The lamp stays for the hold."}
+{"n":105,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at Clinic roof. Nobody past the north curb. We hold in 3 steps. Direct on the left lane, open."}
+{"n":106,"kind":"place","name":"Clinic roof north curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Clinic roof north curb. Matt keeps the lamp for the hold. 4 steps, direct on the left lane, open."}
