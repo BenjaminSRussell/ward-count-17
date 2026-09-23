@@ -474,3 +474,6 @@
 {"n":474,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Ward gate. Nobody past the east curb. We hold in 4 steps. Direct on the left lane, open."}
 {"n":475,"kind":"place","name":"Ward gate east curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate east curb. Bess keeps the hydrant for the hold. 5 steps, direct on the left lane, open."}
 {"n":476,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east curb. direct left open. 6 steps. The hydrant stays for the hold."}
+{"n":477,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the hydrant at Kessler alley. Nobody past the east curb. We hold in 7 steps. Direct on the left lane, open."}
+{"n":478,"kind":"place","name":"Kessler alley east curb","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley east curb. Matt keeps the hydrant for the hold. 8 steps, direct on the left lane, open."}
+{"n":479,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east curb. direct left open. 2 steps. The hydrant stays for the hold."}
