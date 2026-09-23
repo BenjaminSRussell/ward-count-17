@@ -455,3 +455,6 @@
 {"n":455,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south escape. direct left open. 2 steps. The shutter stays for the push."}
 {"n":456,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the shutter at Kessler alley. Nobody past the south escape. We push in 3 steps. Direct on the left lane, open."}
 {"n":457,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley south escape. Nia keeps the shutter for the push. 4 steps, direct on the left lane, open."}
+{"n":458,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south escape. direct left open. 5 steps. The shutter stays for the push."}
+{"n":459,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the shutter at Kessler alley. Nobody past the south escape. We push in 6 steps. Direct on the left lane, open."}
+{"n":460,"kind":"place","name":"Kessler alley south escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley south escape. Ivo keeps the shutter for the push. 7 steps, direct on the left lane, open."}
